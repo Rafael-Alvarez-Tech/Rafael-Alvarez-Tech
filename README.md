@@ -6,7 +6,7 @@
 
 <!-- Simulated background using Night Coding GIF -->
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/d1/35/56/d13556ec053cffc2410a682ee33436d6.jpg" width="100%" height="400px" />
+  <img src="https://64.media.tumblr.com/61d4fea89f86eb4cb5a7e616d9cd4832/tumblr_owi25v6uAo1r4gsiio1_1280.gif" width="100%" height="400px" />
 </p>
 
 <p align="center">
