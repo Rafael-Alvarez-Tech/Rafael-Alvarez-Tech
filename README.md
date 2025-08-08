@@ -9,6 +9,12 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3N0Mnozd2Y0ZHNtYjd1eGc0YmgzZDZmbjl1Y2I5Ymp1bHdubnV1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="400px" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;University+Student+%26+Lifelong+Learner;Passionate+about+Clean+Code+%26+Best+Practices;Modular+Design+%26+MVC+Architecture+Advocate;Frontend+Optimizer+%26+UX+Enthusiast;Git+Master+%26+Team+Player;Hip-Hop+%26+Sampling+Lover;Always+Exploring+New+Technologies&center=true&width=650&height=45">
+  </a>
+</p>
+
 <table style="border-collapse: collapse; border: none;">
   <tr>
     <td style="width:70%; vertical-align:top; border: none;">
