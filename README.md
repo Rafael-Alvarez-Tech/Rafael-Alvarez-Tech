@@ -6,7 +6,7 @@
 
 <!-- Simulated background using Night Coding GIF -->
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3N0Mnozd2Y0ZHNtYjd1eGc0YmgzZDZmbjl1Y2I5Ymp1bHdubnV1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="400px" />
+  <img src="https://i.pinimg.com/1200x/d1/35/56/d13556ec053cffc2410a682ee33436d6.jpg" width="100%" height="400px" />
 </p>
 
 <p align="center">
@@ -126,6 +126,8 @@ Simulates a simple purchase flow and reinforces **form handling** and **server-s
 
 **Tech Stack:** PHP · HTML · CSS
 
+---
+
 ### [📊 Sistema-de-Gestion-de-Proyectos-SAE](https://github.com/Rafael-Alvarez-Tech/Sistema-de-Gestion-de-Proyectos-SAE)  
 Functional prototype developed as a **third-semester academic project**, proposed for the company **SAE**.  
 This is not a final product, but a working concept designed to demonstrate core features and technical feasibility.
@@ -134,7 +136,9 @@ Built with **pure PHP**, **HTML**, **CSS**, and **Bootstrap**, it simulates a ba
 
 **Tech Stack:** PHP · HTML · CSS · Bootstrap
 
-<p style="margin-top: 40px;"> <strong style="margin-top: 40px;">🌟 Other Featured Projects</strong></p>
+<div align="center" style="margin-top: 40px;">
+
+### 🌟 Other Featured Projects
 
 <div align="center">
 
@@ -153,6 +157,16 @@ Built with **pure PHP**, **HTML**, **CSS**, and **Bootstrap**, it simulates a ba
       Emphasizes user interaction and modular code structure.
     </td>
   </tr>
+  <tr>
+    <td colspan="2" style="border: 1px solid #ccc; padding: 10px; border-radius: 8px; margin-top: 20px;">
+      <h4><a href="https://github.com/Rafael-Alvarez-Tech/Javascript-Calculadora">🧮 JavaScript Calculator</a></h4>
+      A simple yet functional calculator built with **HTML**, **CSS**, and **JavaScript** to reinforce DOM manipulation, event handling, and basic logic flow.  
+      This project was created as part of my frontend practice, focusing on clean code, responsive layout, and intuitive user interaction.
+    </td>
+  </tr>
 </table>
+
+</div>
+
 
 </div>
