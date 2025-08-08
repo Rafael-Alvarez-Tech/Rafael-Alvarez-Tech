@@ -95,9 +95,10 @@
 </p>
 
 ### 🚧 Currently Working On
-- 🔐 Improving session security and anti-cache strategies in PHP
-- 📱 Perfecting responsive layouts with Bootstrap 5
-- 🧪 Experimenting with regex for advanced form validation
+- 🧠 Learning C/C++ based on my existing knowledge of C, focusing on structures, pointers, and best practices  
+- 🗃️ Designing and optimizing the database for my WMS inventory management system  
+- 🔄 Sharpening my Git skills: branching, restoration, and collaborative workflows  
+- 🧱 Exploring PHP best practices and modern architectures to write cleaner, scalable code
 
 ### 🌟 Featured Projects
 
@@ -124,3 +125,34 @@ Beginner-friendly **web shopping app** built with **pure PHP**, **HTML**, and **
 Simulates a simple purchase flow and reinforces **form handling** and **server-side scripting**.
 
 **Tech Stack:** PHP · HTML · CSS
+
+### [📊 Sistema-de-Gestion-de-Proyectos-SAE](https://github.com/Rafael-Alvarez-Tech/Sistema-de-Gestion-de-Proyectos-SAE)  
+Functional prototype developed as a **third-semester academic project**, proposed for the company **SAE**.  
+This is not a final product, but a working concept designed to demonstrate core features and technical feasibility.
+
+Built with **pure PHP**, **HTML**, **CSS**, and **Bootstrap**, it simulates a basic purchase flow and reinforces key concepts like **form handling**, **responsive design**, and **server-side scripting**.
+
+**Tech Stack:** PHP · HTML · CSS · Bootstrap
+
+<p style="margin-top: 40px;"> <strong style="margin-top: 40px;">🌟 Other Featured Projects</strong></p>
+
+<div align="center">
+
+<table>
+  <tr>
+    <td width="45%" style="border: 1px solid #ccc; padding: 10px; border-radius: 8px;">
+      <h4><a href="https://github.com/Rafael-Alvarez-Tech/Juego-Calculo">🧠 Math Game 1</a></h4>
+      A fun and interactive math game built to challenge logic and speed.  
+      Developed using **HTML**, **CSS**, **JavaScript**, and **Bootstrap**.  
+      Focuses on dynamic DOM manipulation and responsive design.
+    </td>
+    <td width="45%" style="border: 1px solid #ccc; padding: 10px; border-radius: 8px;">
+      <h4><a href="https://github.com/Rafael-Alvarez-Tech/Juego-Calculo-2">🧮 Math Game 2</a></h4>
+      A second math-based challenge with new mechanics and scoring system.  
+      Built with **HTML**, **CSS**, **JavaScript**, and **Bootstrap**.  
+      Emphasizes user interaction and modular code structure.
+    </td>
+  </tr>
+</table>
+
+</div>
